@@ -7,6 +7,8 @@ Do not expect direct answers! This way you will not miss the fun of learning and
 
 **Compiler**: I highly recommend using **clang** (a front-end from LLVM project) for C because of its verbose and more descriptive message diagnostics, especially when things go not-as-you-desired. You should be spending more time to solve the problems rather than working on strange looking and mis-placed error messages as produced by gcc.    
 
-**Practice**: Try solving some of the problems listed under [Project Euler archives](https://projecteuler.net/archives).   
+**Practice**: 
+Try solving some of the problems listed under [Project Euler archives](https://projecteuler.net/archives).   
+Another reference for practice is [CodingBat](https://codingbat.com/java)   
 
 -rks
