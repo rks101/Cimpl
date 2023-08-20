@@ -9,10 +9,15 @@ void unsigned_one(int);
 
 int main()
 {
-    // Important: 
+    // Important: Be cautious while printing integer values using a format string. e.g., %d or %u 
     // print output of sizeof() using lu => unsigned long
     // print output of signed numbers or integers using d
-    // print output of unsigned numbers or unsigned integers using u
+    // print output of unsigned numbers or unsigned integers using u, 
+    // do not use d for unsigned int because -1 is not a valid unsigned integer, see the TRY below. 
+    // 
+    // For signed data types: check formula -2^(n-1) to (2^(n-1)) – 1.
+    // For unsigned data types: check formula 0 to (2^n) – 1. 
+    // here, n is the number of bits in both cases, and ^ is the power function. 
     
     // integer
     printf("\nsize of signed int: %lu", sizeof(int));
