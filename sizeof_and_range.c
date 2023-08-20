@@ -131,7 +131,12 @@ void unsigned_one(int count)
 
 
 /*
-Sample output: 
+Sample output on cplayground.com (clang gives better error diagnostics) or onlinegdb.com: 
+
+                                                 Compiling...                                                 
+clang++ -o /cplayground/cplayground /cplayground/code.cpp -I/cplayground/include -L/cplayground/lib -std=c++20 -O0 -Wall -no-pie -lm -pthread
+                                            Compiled in 230.428 ms                                            
+                                                 Executing...                                                 
 
 size of signed int: 4
 range of int
@@ -153,5 +158,14 @@ range of short
 size of unsigned short: 2
 range of unsigned short
 0 to 65535
+
+size of signed long int: 8
+range of long int
+-9223372036854775808 to 9223372036854775807
+size of unsigned long int: 8
+range of unsigned long int
+0 to 18446744073709551615                                      
+
+Execution finished (exit status 0)                                      
 
 */
