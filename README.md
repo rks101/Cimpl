@@ -15,7 +15,7 @@ Try solving some of the problems listed under [Project Euler archives](https://p
 Another reference for practice problems is [CodingBat](https://codingbat.com/java)   
 
 
-**Reference**:
+**Reference**:   
 [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf) by Dennis M. Ritchie, Bell Telephone Laboratories    
 [GNU C Reference](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)    
 
