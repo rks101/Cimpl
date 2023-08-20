@@ -26,6 +26,12 @@ Another reference for practice problems is [CodingBat](https://codingbat.com/jav
 **Reference**:   
 [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf) by Dennis M. Ritchie, Bell Telephone Laboratories    
 [GNU C Reference](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)    
+[C Language reference](https://en.cppreference.com/w/c/language) with code examples and an option to run the code given. Another handy online documentation is at [devdocs.io](https://devdocs.io/c/types/limits) and [official ISO/IEC 9899 standard](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)     
+
+Online course: You can explore a course [CS50 at Harvard](https://cs50.harvard.edu/) or [CS50 on edX](https://www.edx.org/cs50) by Prof David Malan (.../2021/2022). Prof David is awesome at introducing concepts and engaging the students. Malan's energy level keeps you connected, and it is that you will enjoy and remember.     
+
+
+[C++ docs at GfG](https://www.geeksforgeeks.org/c-plus-plus/)    
 
 ----
 
