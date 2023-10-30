@@ -41,6 +41,8 @@ Gotcha!
 
 The compiler has limitations and can sometimes do some interesting [**Implicit Conversions**](https://learn.microsoft.com/en-us/cpp/c-language/assignment-conversions?view=msvc-170).    
 
+Some more [memory related topics](https://github.com/angrave/SystemProgramming/wiki/C-Programming%2C-Part-3%3A-Common-Gotchas).    
+
 Do not waste your time on such gotcha questions! There are in good supply, like Silo :)    
 However, understand them; they are there, and maybe your professor likes to ask something you cannot answer in one shot.    
 
