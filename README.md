@@ -43,8 +43,8 @@ The compiler has limitations and can sometimes do some interesting [**Implicit C
 
 Some more [memory related topics](https://github.com/angrave/SystemProgramming/wiki/C-Programming%2C-Part-3%3A-Common-Gotchas).    
 
-Do not waste your time on such gotcha questions! There are in good supply, like Silo :)    
-However, understand them; they are there, and maybe your professor likes to ask something you cannot answer in one shot.    
+Do not waste too much time on such gotcha questions exhaustively! There are in good supply, like Silo :)    
+However, be aware, understand them; they are there. And maybe your professor likes to ask something you cannot answer on some days.    
 
 ---- 
 
