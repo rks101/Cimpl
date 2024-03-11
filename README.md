@@ -37,14 +37,13 @@ Online course: You can explore a course [CS50 at Harvard](https://cs50.harvard.e
 
 ----
 
-Gotcha!    
+Gotcha questions!    
 
-The compiler has limitations and can sometimes do some interesting [**Implicit Conversions**](https://learn.microsoft.com/en-us/cpp/c-language/assignment-conversions?view=msvc-170).    
+Compilers have limitations; they are written with certain assumptions and can sometimes do some interesting [**Implicit Conversions**](https://learn.microsoft.com/en-us/cpp/c-language/assignment-conversions?view=msvc-170). This is also a reason why new languages keep coming that avoid unwanted side-effects or improve on how code is written.     
 
-Some more [memory related topics](https://github.com/angrave/SystemProgramming/wiki/C-Programming%2C-Part-3%3A-Common-Gotchas).    
+Some more [memory-related topics](https://github.com/angrave/SystemProgramming/wiki/C-Programming%2C-Part-3%3A-Common-Gotchas).    
 
-Do not waste too much time on such gotcha questions exhaustively! There are in good supply, like Silo :)    
-However, be aware, understand them; they are there. And maybe your professor likes to ask something you cannot answer on some days.    
+Do not waste time on such gotcha questions where output varies with the compiler! However, be aware and understand them; they are there and why. Same code snippet can produce different output on different operating systems, processor architecture, compiler, language standards, etc. Python, JavaScript or other programming langauge may have constructs that are ambigious or defies logic. It is interesting to study multiple programming (or natural) languages and compare similar constructs.     
 
 ---- 
 
